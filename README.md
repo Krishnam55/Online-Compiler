@@ -8,36 +8,39 @@
 
 **ByteSmith** is a revolutionary coding learning platform built to empower teachers and inspire students in their programming journey. It's not just a learning platform – it's an **intelligent, interactive, and adaptive environment** designed for the future of coding education.
 
-Whether you're a teacher creating assignments or a student practicing your skills, ByteSmith transforms the traditional learning model with **AI-driven features** and **real-time coding tools**.
+ByteSmith transforms the traditional learning model with **AI-driven features** and **real-time coding tools**.
 
 ---
 
 ## Key Features
 
-- **Dynamic Coding Assignments**
+- **Interactive Code Editor**
+  - Real-time code editing with syntax highlighting for 5+ languages (Python, Java, C++, C, JavaScript)
+  - Intuitive interface with line numbers, auto-indentation, and theme customization
 
-    - Teachers can post assignments containing **bundles of coding questions** tailored to different skill levels.
-    - Students can attempt, track, and submit solutions seamlessly.
+- **Multi-Language Code Execution**
+  - Execute code in multiple programming languages through a secure, containerized environment
+  - Get instant output and error feedback directly in the browser
 
-- **Smart Progress Tracker**
+- **AI-Powered Code Analysis**
+  - Smart error detection with beginner-friendly explanations
+  - Personalized code improvement suggestions
+  - Intelligent debugging assistance
 
-    - Visual dashboards help students monitor their progress and areas for improvement.
-    - Teachers gain insights into class-wide performance trends in real time.
+- **Learning Resources**
+  - Curated collection of coding problems with varying difficulty levels
+  - Step-by-step solutions and explanations
+  - Progress tracking and performance analytics
 
-- **Powerful Online Judge**
+- **User Management**
+  - Secure authentication and authorization system
+  - User profiles with activity history
+  - Progress tracking and achievement system
 
-    - Submit solutions and get instant feedback.
-    - Each submission is tested against **public** and **hidden test cases**, ensuring solutions are not just correct but robust.
-
-- **Integrated Multi-Language Online Compiler**
-
-    - Supports multiple programming languages out of the box.
-    - Run, debug, and test code instantly without leaving the platform.
-
-- **AI Superpowers**
-    - **Auto Test Case Generation**: Teachers can instantly create diverse and challenging test cases with AI assistance.
-    - **Error Explainer**: Students get AI-powered, beginner-friendly explanations for errors in their code.
-    - **Adaptive Learning Tools**: Personalized recommendations and hints to guide students step by step.
+- **Responsive Design**
+  - Fully responsive interface that works on desktop and mobile devices
+  - Clean, modern UI with customizable themes
+  - Keyboard shortcuts for improved productivity
 
 ---
 
@@ -59,7 +62,7 @@ We are building the **future of coding education** – one where **AI and human 
 - **Frontend:** React.js with modern design system
 - **Backend:** Node.js + Express
 - **Database:** MongoDB
-- **AI Engine:** Gemini API
+- **AI Engine:** Groq API
 - **Cloud Deployment:** AWS
 - **Design:** TailwindCSS with custom ByteSmith theme
 
